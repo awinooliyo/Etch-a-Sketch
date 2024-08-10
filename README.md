@@ -22,7 +22,7 @@ To get started with this project, follow these steps:
 
 2. **Navigate to the Project Directory**
     ```bash
-    cd Etch-a_Sketch
+    cd Etch-a-Sketch
 
 3. **Open the Project in a Browse**
     You can open the index.html file in your web browser to view and interact with the grid.
@@ -46,5 +46,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 For any questions or feedback, please reach out to [erick.otieno89@gmail.com](mailto:erick.otieno89@gmail.com).
-
-
